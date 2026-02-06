@@ -1,0 +1,17 @@
+C:\Users\HP\Downloads\project-bolt-sb1-besyw6vd\project\CustomerSupport.Desktop\obj\Debug\net8.0-windows\CustomerSupport.Desktop.Forms.LoginForm.resources
+C:\Users\HP\Downloads\project-bolt-sb1-besyw6vd\project\CustomerSupport.Desktop\obj\Debug\net8.0-windows\CustomerSupport.Desktop.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\project-bolt-sb1-besyw6vd\project\CustomerSupport.Desktop\obj\Debug\net8.0-windows\CustomerSupport.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\project-bolt-sb1-besyw6vd\project\CustomerSupport.Desktop\obj\Debug\net8.0-windows\CustomerSupport.Desktop.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\project-bolt-sb1-besyw6vd\project\CustomerSupport.Desktop\obj\Debug\net8.0-windows\CustomerSupport.Desktop.AssemblyInfo.cs
+C:\Users\HP\Downloads\project-bolt-sb1-besyw6vd\project\CustomerSupport.Desktop\obj\Debug\net8.0-windows\CustomerSupport.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\project-bolt-sb1-besyw6vd\project\CustomerSupport.Desktop\bin\Debug\net8.0-windows\CustomerSupport.Desktop.exe
+C:\Users\HP\Downloads\project-bolt-sb1-besyw6vd\project\CustomerSupport.Desktop\bin\Debug\net8.0-windows\CustomerSupport.Desktop.deps.json
+C:\Users\HP\Downloads\project-bolt-sb1-besyw6vd\project\CustomerSupport.Desktop\bin\Debug\net8.0-windows\CustomerSupport.Desktop.runtimeconfig.json
+C:\Users\HP\Downloads\project-bolt-sb1-besyw6vd\project\CustomerSupport.Desktop\bin\Debug\net8.0-windows\CustomerSupport.Desktop.dll
+C:\Users\HP\Downloads\project-bolt-sb1-besyw6vd\project\CustomerSupport.Desktop\bin\Debug\net8.0-windows\CustomerSupport.Desktop.pdb
+C:\Users\HP\Downloads\project-bolt-sb1-besyw6vd\project\CustomerSupport.Desktop\obj\Debug\net8.0-windows\CustomerSupport.Desktop.dll
+C:\Users\HP\Downloads\project-bolt-sb1-besyw6vd\project\CustomerSupport.Desktop\obj\Debug\net8.0-windows\refint\CustomerSupport.Desktop.dll
+C:\Users\HP\Downloads\project-bolt-sb1-besyw6vd\project\CustomerSupport.Desktop\obj\Debug\net8.0-windows\CustomerSupport.Desktop.pdb
+C:\Users\HP\Downloads\project-bolt-sb1-besyw6vd\project\CustomerSupport.Desktop\obj\Debug\net8.0-windows\CustomerSupport.Desktop.genruntimeconfig.cache
+C:\Users\HP\Downloads\project-bolt-sb1-besyw6vd\project\CustomerSupport.Desktop\obj\Debug\net8.0-windows\ref\CustomerSupport.Desktop.dll
+C:\Users\HP\Downloads\project-bolt-sb1-besyw6vd\project\CustomerSupport.Desktop\obj\Debug\net8.0-windows\CustomerSupport.Desktop.Forms.MainForm.resources

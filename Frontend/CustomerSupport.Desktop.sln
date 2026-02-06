@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerSupport.Desktop", "C:\Users\HP\Downloads\project-bolt-sb1-besyw6vd\project\CustomerSupport.Desktop\CustomerSupport.Desktop.csproj", "{FC8182C4-A237-3156-38E7-EDF13475DD4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC8182C4-A237-3156-38E7-EDF13475DD4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8182C4-A237-3156-38E7-EDF13475DD4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8182C4-A237-3156-38E7-EDF13475DD4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8182C4-A237-3156-38E7-EDF13475DD4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CFEC773-902C-4D1D-963C-55E6B7B58BDD}
+	EndGlobalSection
+EndGlobal
